@@ -42,5 +42,5 @@ The main aim of this android application is to empower women. The final product 
 3) Stree App will be running successfully!
 
 # Screenshots
-![pic1](https://drive.google.com/file/d/1HDWCptnqDgB0ERPCWHbzvljIZE-oXvNh/view?usp=sharing)
-![pic2](https://drive.google.com/file/d/1W3SSMMtXVzd1ypDNHk465zAU8feY6pqW/view?usp=sharing)
+![pic1](https://github.com/Shardul1908/STREE/blob/main/stree1.jpeg)
+![pic2](https://github.com/Shardul1908/STREE/blob/main/stree2.jpeg)
