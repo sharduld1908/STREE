@@ -1,5 +1,3 @@
-# STREE
-Women Empowerment Map
 # Project Name : 
 
 ## STREE - Women Security and Empowerment App
