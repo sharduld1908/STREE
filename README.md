@@ -40,6 +40,5 @@ The main aim of this android application is to empower women. The final product 
 3) Stree App will be running successfully!
 
 # Screenshots
-![pic1](https://drive.google.com/file/d/1HDWCptnqDgB0ERPCWHbzvljIZE-oXvNh/view?usp=sharing)
-![pic2](https://drive.google.com/file/d/1W3SSMMtXVzd1ypDNHk465zAU8feY6pqW/view?usp=sharing)
-
+<img src="https://drive.google.com/uc?export=view&id=1HDWCptnqDgB0ERPCWHbzvljIZE-oXvNh" width="200" height="400" title="Click to enlarge picture" />
+<img src="https://drive.google.com/uc?export=view&id=1W3SSMMtXVzd1ypDNHk465zAU8feY6pqW" width="200" height="400" title="Click to enlarge picture" />
